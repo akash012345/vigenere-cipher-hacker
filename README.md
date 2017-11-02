@@ -9,5 +9,7 @@ the encrypter.py file and the decrypter.py file encrypts and decrypts the plain_
 run the vigenere_cipher_hacker.py with the name of the encrypted text file and the length of the key inside the program
 
 #SPECIFY THE LENGTH OF THE KEY 
+
+
 #IF LENGTH OF THE KEY IS NOT KNOWN TRY DIFFERENT LENGTHS
 
